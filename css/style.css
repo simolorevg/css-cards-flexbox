@@ -6,6 +6,10 @@
 }
 
 /*COMMON*/
+body{
+    background-color: black;
+    color:white;
+}
 
 .container{
     width:80%;
@@ -16,4 +20,16 @@
 #head-section{
     text-align:center;
     padding: 10px 0;
+}
+
+/*CARD SECTION*/
+.cardsection-flex{
+    flex-direction: row;
+    border:1px solid white;
+}
+
+/*CARD STYLE*/
+.card{
+    margin:5px;
+    border: 1px solid red;
 }
