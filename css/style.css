@@ -5,4 +5,15 @@
     box-sizing: border-box;
 }
 
+/*COMMON*/
+
+.container{
+    width:80%;
+    margin:0 auto;
+}
+
 /*HEADER SECTION*/
+#head-section{
+    text-align:center;
+    padding: 10px 0;
+}
